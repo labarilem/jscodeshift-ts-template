@@ -1,6 +1,6 @@
 # jscodeshift-ts-template
 
-Template repository for Typescript [jscodeshift](https://github.com/facebook/jscodeshift) transformers. It's based on the official jscodeshift conventions to build transformers. This template includes tests and debug config too.
+Template repository for Typescript [jscodeshift](https://github.com/facebook/jscodeshift) transformers. It's based on the official jscodeshift conventions to build transformers. This template includes tests and debug config for VS Code too.
 
 Be careful when using codemods and always check the transformed code.
 Also remember that not every code migration can be easily 100% automated.
